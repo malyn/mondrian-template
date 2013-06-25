@@ -1,4 +1,4 @@
-(defproject mondrian/lein-template "0.1.0"
+(defproject mondrian/lein-template "0.1.1"
   :description "A Leiningen template for mondrian projects"
   :url "https://github.com/malyn/mondrian-template"
   :license {:name "BSD"
